@@ -2,7 +2,7 @@
 title: "Why I Started This Blog"
 description: "A quick intro to this blog — why I built it, what I hope to learn, and where I'd like it to take my career."
 pubDate: "Jun 7 2026"
-heroImage: "/post_img.webp"
+heroImage: "/blog-why-i-started.webp"
 badge: "NEW"
 tags: ["personal", "career"]
 ---
