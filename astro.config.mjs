@@ -5,7 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://astrofy-template.netlify.app',
+  site: 'https://my-website.grantpayne4.workers.dev',
   // Use the passthrough image service so the build does not depend on
   // `sharp` (a native module that cannot be bundled into a Cloudflare
   // Worker). Images are already optimized WebP with explicit dimensions.
