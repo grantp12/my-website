@@ -2,7 +2,7 @@
 title: "From the Command Line to a Chess Engine"
 description: "How messing around in my Mac's terminal turned into a full chess analysis project — and a crash course in Python, Git, and a lot more."
 pubDate: "Jun 9 2026"
-heroImage: "/blog-chess-project.webp"
+heroImage: "/blog-thumb-chess.webp"
 badge: "NEW"
 tags: ["projects", "chess", "learning"]
 ---
