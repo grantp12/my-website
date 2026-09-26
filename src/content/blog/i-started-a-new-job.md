@@ -2,6 +2,7 @@
 title: "I Started a New Job"
 description: "I've joined Darktrace as a Sales Development Representative. Here are my first thoughts on stepping into the role and why I see it as a chance to grow."
 pubDate: "Sep 25 2026"
+heroImage: "/blog-thumb-new-job.webp"
 tags: ["career", "personal"]
 ---
 

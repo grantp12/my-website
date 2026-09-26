@@ -2,6 +2,7 @@
 title: "One Way I Use AI in My Current Job to Be More Efficient"
 description: "A quick look at how I use an AI agent to speed up lead research and pre-qualification in my day-to-day sales work."
 pubDate: "Jul 26 2026"
+heroImage: "/blog-thumb-ai-leads.webp"
 badge: "NEW"
 tags: ["AI", "sales", "productivity"]
 ---
