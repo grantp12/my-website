@@ -7,7 +7,7 @@ badge: "NEW"
 tags: ["AI", "sales", "productivity"]
 ---
 
-I often get asked whether AI actually helps in sales or if it's just hype. So here's one real example of how I use it in my everyday work.
+Here's one way I use AI in my everyday work to be more efficient.
 
 A big part of prospecting is figuring out who to reach out to, and whether they're even worth reaching out to. Doing both by hand takes a lot of time. To speed things up, I started using a Copilot agent to do the first round of research for me.
 
