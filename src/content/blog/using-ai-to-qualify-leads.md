@@ -1,18 +1,18 @@
 ---
 title: "One Way I Use AI in My Current Job to Be More Efficient"
-description: "A quick look at how I use an AI agent to speed up lead research and pre-qualification in my day-to-day sales work."
+description: "A quick look at how I use an AI agent to speed up lead research and figure out which leads are worth my time."
 pubDate: "Jul 26 2026"
 heroImage: "/blog-thumb-ai-leads.webp"
 badge: "NEW"
 tags: ["AI", "sales", "productivity"]
 ---
 
-I get asked a lot whether AI actually helps in a sales role, or if it's just hype. Here's one concrete, everyday example from my current job.
+Here's one way I use AI in my everyday work to be more efficient.
 
-A big part of prospecting is figuring out *who* to reach out to and *whether they're even worth the outreach* — and both steps are time-consuming when done by hand. To speed that up, I've started using a Copilot agent to do the first pass for me.
+A big part of prospecting is figuring out who to reach out to, and whether they're even worth reaching out to. Doing both by hand takes a lot of time. To speed things up, I started using a Copilot agent to do the first round of research for me.
 
-Here's how it works: I point the agent at our existing pipeline, and it searches online for a company's contact information — the right people, their details, and how to get in touch. From there, it helps with pre-qualification: it assesses how likely it is that our services would actually be applicable and attractive to that business, so I can quickly tell a strong lead from a weak one.
+Here's how it works. I point the agent at our pipeline, and it searches online for each company's contact info. It finds the right people, their details, and the best way to reach them. Then it helps me decide if a lead is worth my time by looking at how likely it is that the company would actually need and want what we offer. That way I can quickly tell a strong lead from a weak one.
 
-The result is that a lot of the manual research and guesswork gets handled up front. Instead of spending my morning digging for contact info and trying to judge fit from scratch, I get a head start — relevant contacts surfaced and a rough read on whether the opportunity is worth pursuing. That frees me up to focus on the part that actually needs a human: building the relationship and having the conversation.
+Because of this, a lot of the manual research and guesswork gets done before I even start. Instead of spending my morning digging for contact info and trying to guess if a company is a good fit, I get a head start. I already have the right contacts and a rough idea of whether the opportunity is worth chasing. That leaves me more time for the part that actually needs a person: building the relationship and having the conversation.
 
-What I like most is that it doesn't replace my judgment — it sharpens it. The agent handles the legwork, and I make the final call. It's a small change to my workflow, but it adds up to a meaningful boost in efficiency, and it's a great example of the kind of business-meets-technology thinking I enjoy.
+What I like most is that it doesn't make decisions for me. It just helps me make better ones. The agent does the legwork, and I make the final call. It's a small change to how I work, but it adds up to real time savings. It's also a good example of the kind of thing I enjoy most, which is using technology to solve real business problems.
