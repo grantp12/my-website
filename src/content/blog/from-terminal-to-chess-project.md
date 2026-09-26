@@ -1,18 +1,18 @@
 ---
 title: "From the Command Line to a Chess Engine"
-description: "How messing around in my Mac's terminal turned into a full chess analysis project — and a crash course in Python, Git, and a lot more."
+description: "How playing around in my Mac's terminal turned into a full chess analysis project, and taught me Python, Git, and a lot more along the way."
 pubDate: "Jun 9 2026"
 heroImage: "/blog-thumb-chess.webp"
 badge: "NEW"
 tags: ["projects", "chess", "learning"]
 ---
 
-It started, like a lot of good rabbit holes do, with simple curiosity. I'd just gotten a new MacBook Pro, and instead of treating it like an appliance, I wanted to understand what it could actually do. That curiosity led me straight to the one app most people never open: the terminal.
+It started the way a lot of rabbit holes do, with plain curiosity. I had just gotten a new MacBook Pro, and instead of only using it for the usual stuff, I wanted to know what it could really do. That led me to the one app most people never open: the terminal.
 
-At first it was about as basic as it gets. I learned `cd` to move between folders, `ls` to see what was inside them, and `clear` to wipe the screen when things got messy. Small stuff — but there was something satisfying about talking to the machine directly instead of clicking around. The more I poked at it, the more I wanted to know how the command line actually interacts with the system underneath.
+At first it was super basic. I learned `cd` to move between folders, `ls` to see what was in them, and `clear` to wipe the screen when it got messy. Small stuff, but it was weirdly satisfying to talk to the computer directly instead of clicking around. The more I played with it, the more I wanted to understand what was going on underneath.
 
-Then the project found its purpose. I'm a chess player, so it felt natural to point all this new curiosity at something I already loved. What began as a few commands snowballed into a full-scale chess analysis project. I leaned on AI as a learning partner to help me figure things out as I went — writing my first Python scripts, wiring up the Stockfish chess engine to analyze positions, using Homebrew to install the packages I needed, and learning how Git works so I could track my progress and not lose my work.
+Then I found a reason to keep going. I play chess, so it made sense to point all this curiosity at something I already love. A few commands slowly turned into a whole chess analysis project. I used AI as a kind of study buddy to help me figure things out along the way. With its help, I wrote my first Python scripts, hooked up Stockfish (a chess engine) to analyze positions, used Homebrew to install the tools I needed, and learned how Git works so I could save my progress and not lose my work.
 
-What surprised me most was how one small question — "how does this computer actually work?" — kept opening doors to bigger ones. Chasing that thread exposed me to so much more than I expected: Python, Git and version control, virtual environments, working with APIs, building HTML websites, and using Visual Studio Code alongside Claude Code to move faster and learn as I built.
+What surprised me most was how one small question kept leading to bigger ones. All I wanted to know was how this computer actually works, and chasing that answer introduced me to way more than I expected. I picked up Python, Git, virtual environments, APIs, building simple HTML websites, and using Visual Studio Code with Claude Code to learn faster while I built.
 
-None of it felt like studying. It felt like building something I cared about and picking up the technical skills along the way. This project turned an idle curiosity about my laptop into a genuine technical foundation — and honestly, it's a big part of why this blog exists. I'm excited to keep building, and I'll be sharing more about the chess platform as it grows.
+None of it felt like studying. It felt like building something I cared about and learning the technical stuff as I went. What started as me poking around on my laptop turned into a real foundation of technical skills, and honestly, it's a big part of why this blog exists. I'm excited to keep building, and I'll share more about the chess project as it grows.

@@ -1,20 +1,20 @@
 ---
 title: "Why I Started This Blog"
-description: "A quick intro to this blog — why I built it, what I hope to learn, and where I'd like it to take my career."
+description: "A quick intro to my blog, why I built it, and where I hope it takes my career."
 pubDate: "Jun 7 2026"
 heroImage: "/blog-thumb-why-i-started.webp"
 badge: "NEW"
 tags: ["personal", "career"]
 ---
 
-Welcome, and thanks for stopping by! If you're reading this, you've found the very first post on my new blog — so it feels right to start by explaining why this space exists in the first place.
+Welcome, and thanks for stopping by! This is the very first post on my blog, so I figured I should start by explaining why I made it.
 
-Part of my goal here was simply to build a personal website for myself. But I also wanted it to do double duty: to showcase a bit of technical aptitude and demonstrate that I understand what actually goes into creating, editing, and deploying a website online. There's a surprising amount that happens between an idea and a live page — choosing the tools, writing the content, wrangling the code, and getting it all published — and working through that process end to end has been a genuinely rewarding way to learn.
+Part of it is pretty simple. I wanted my own personal website. But I also wanted it to show that I have some technical skills and that I understand what it actually takes to build a website and put it online. There's a lot more to it than I expected. You have to pick the tools, write the content, mess with the code, and then figure out how to get it all published. Working through all of that myself has been a really fun way to learn.
 
-Beyond the website itself, I have a bigger reason for doing this. I'd like to break into more technical-facing roles, ideally ones that sit at the intersection of business and technology. That middle ground is where I feel most at home: being able to understand business requirements and goals, translate them into technical terms, and just as importantly, translate the technical side back into language that stakeholders can act on. Bridging those two worlds is exactly the kind of work I want to do more of.
+There's also a bigger reason. I want to move into more technical roles, ideally ones that mix business and technology. That's the space where I feel most comfortable. I like understanding what a business needs, explaining it to the technical side, and then explaining the technical side back in plain English so people can make decisions. Being the person in the middle who connects those two worlds is the kind of work I want to do more of.
 
-This blog is one small step toward that goal. By continuing to write here and adding projects over time, I'm hoping to build a visible track record of growth — both as a way to sharpen my own skills and to share that journey with anyone who's curious. Think of it as a working notebook for the path I'm trying to carve out.
+This blog is one small step in that direction. As I keep writing and adding projects, I'm hoping it turns into a record of how I've grown. It helps me sharpen my own skills, and it lets me share the journey with anyone who's curious. Think of it as my notebook for the path I'm trying to figure out.
 
-I also genuinely believe my background sets me up well for this. My experience in customer-facing roles within a fintech environment taught me how to listen, ask the right questions, and connect what people need with what's possible. Combine that with the ongoing learning and development of my technical skills, and I think it'll prove useful in the long run for my career.
+I also think my background gives me a good head start. Working with customers at a fintech company taught me how to listen, ask good questions, and match what people need with what's actually possible. Put that together with the technical skills I'm building, and I think it will pay off for my career in the long run.
 
-So that's the "why." Going forward, I'll be using this space to document what I'm learning, share the projects I'm building, and reflect on the journey from business toward technology. I hope you'll follow along — and I'm glad you're here.
+So that's the "why." From here on, I'll use this space to talk about what I'm learning, share the projects I'm working on, and look back on my move from business toward tech. I hope you'll follow along, and I'm really glad you're here.
