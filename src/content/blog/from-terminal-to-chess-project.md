@@ -11,7 +11,7 @@ It started the way a lot of rabbit holes do, with plain curiosity. I had just go
 
 At first it was super basic. I learned `cd` to move between folders, `ls` to see what was in them, and `clear` to wipe the screen when it got messy. Small stuff, but it was weirdly satisfying to talk to the computer directly instead of clicking around. The more I played with it, the more I wanted to understand what was going on underneath.
 
-Then I found a reason to keep going. I play chess, so it made sense to point all this curiosity at something I already love. A few commands slowly turned into a whole chess analysis project. I used AI as a kind of study buddy to help me figure things out along the way. With its help, I wrote my first Python scripts, hooked up Stockfish (a chess engine) to analyze positions, used Homebrew to install the tools I needed, and learned how Git works so I could save my progress and not lose my work.
+Then I found a reason to keep going. I play chess, so it made sense to point all this curiosity at something I already love. A few commands slowly turned into a whole chess analysis project. I leaned on AI to help me figure things out as I went. With its help, I wrote my first Python scripts, hooked up the Stockfish chess engine to analyze positions, used Homebrew to install the tools I needed, and learned how Git works so I could save my progress and not lose my work.
 
 What surprised me most was how one small question kept leading to bigger ones. All I wanted to know was how this computer actually works, and chasing that answer introduced me to way more than I expected. I picked up Python, Git, virtual environments, APIs, building simple HTML websites, and using Visual Studio Code with Claude Code to learn faster while I built.
 
