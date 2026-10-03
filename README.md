@@ -6,12 +6,14 @@ Live site: https://my-website.grantpayne4.workers.dev
 
 ## Tech Stack
 
-- [Astro](https://astro.build) (static output, Markdown/MDX content collections)
-- [Tailwind CSS](https://tailwindcss.com/) with the typography plugin
-- [DaisyUI](https://daisyui.com/) (`night` theme)
+- [Astro](https://astro.build) 7 (static output, Markdown/MDX content collections)
+- [Tailwind CSS](https://tailwindcss.com/) 4 with the typography plugin, configured in `src/styles/global.css`
+- [DaisyUI](https://daisyui.com/) 5 (`night` theme)
 - Deployed on Cloudflare
 
 ## Getting Started
+
+Requires Node 22.12 or newer.
 
 ```bash
 npm install
@@ -29,11 +31,11 @@ Other scripts: `npm run build` (output to `dist/`) and `npm run preview`.
 │   ├── layouts/        BaseLayout, PostLayout
 │   ├── lib/            createSlug helper
 │   ├── pages/          index, cv, projects, 404, rss.xml, blog/
-│   ├── styles/         global.css
-│   └── config.ts       Site title, description, slug and transition flags
-├── public/             Favicon, profile photo, images, robots.txt
-├── astro.config.mjs
-└── tailwind.config.cjs
+│   ├── styles/         global.css (Tailwind and DaisyUI setup)
+│   ├── config.ts       Site title, description, slug and transition flags
+│   └── content.config.ts  Blog post schema
+├── public/             Favicon, profile photo, images, robots.txt, _headers
+└── astro.config.mjs
 ```
 
 ## Common Edits
@@ -46,7 +48,7 @@ Other scripts: `npm run build` (output to `dist/`) and `npm run preview`.
 
 ### Adding a blog post
 
-Add a `.md` file to `src/content/blog/` with this frontmatter (schema in `src/content/config.ts`):
+Add a `.md` file to `src/content/blog/` with this frontmatter (schema in `src/content.config.ts`):
 
 ```md
 ---
