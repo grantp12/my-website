@@ -8,12 +8,12 @@ export async function GET(context) {
   return rss({
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
-    site: import.meta.env.SITE,
+    site: context.site,
     items: blog.map((post) => ({
       title: post.data.title,
       pubDate: post.data.pubDate,
       description: post.data.description,
-      link: `/blog/${createSlug(post.data.title, post.slug)}/`,
+      link: `/blog/${createSlug(post.data.title, post.id)}/`,
     })),
   });
 }
