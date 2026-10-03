@@ -1,7 +1,7 @@
 import { defineConfig, passthroughImageService } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import tailwind from "@astrojs/tailwind";
+import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
@@ -10,5 +10,6 @@ export default defineConfig({
   // `sharp` (a native module that cannot be bundled into a Cloudflare
   // Worker). Images are already optimized WebP with explicit dimensions.
   image: { service: passthroughImageService() },
-  integrations: [mdx(), sitemap(), tailwind()]
+  integrations: [mdx(), sitemap()],
+  vite: { plugins: [tailwindcss()] },
 });

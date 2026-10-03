@@ -1,3 +1,36 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+@plugin 'daisyui' {
+  themes: night --default;
+}
+
+/* Keep the DaisyUI 4 component sizes this site was designed with:
+   46px buttons (--size-field x 10) and 20px badges (--size-selector x 6). */
+@plugin 'daisyui/theme' {
+  name: 'night';
+  default: true;
+  --size-field: 0.2875rem;
+  --size-selector: 0.2083rem;
+}
+
+/*
+  The default border color has changed to `currentcolor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+}
+
 .time-line-container>div:last-child .education__time>.education__line {
     display: none;
 }

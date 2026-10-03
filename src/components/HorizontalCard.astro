@@ -30,7 +30,7 @@ const { title, img, desc, url, badge, tags, date, target = "_blank" } = Astro.pr
           height={422}
           format="webp"
           alt={title}
-          class="max-w-full md:max-w-[13rem] rounded-lg"
+          class="max-w-full md:max-w-52 rounded-lg"
         />
       )
     }
@@ -38,8 +38,8 @@ const { title, img, desc, url, badge, tags, date, target = "_blank" } = Astro.pr
       <h2 class="text-xl font-bold">
         <!-- The title link stretches over the whole card, so the card stays clickable
              without wrapping the tag links inside another link. -->
-        <a href={url} target={target} class="after:absolute after:inset-0">{title}</a>
-        {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
+        <a href={url} target={target} class="after:absolute after:inset-0">{title}</a>{" "}
+        {badge && <span class="badge badge-secondary mx-2">{badge}</span>}
       </h2>
       {date && <time class="text-sm opacity-60" datetime={dayjs(date).format("YYYY-MM-DD")}>{dayjs(date).format("ll")}</time>}
       <p class="py-1 text-1xl">{desc}</p>

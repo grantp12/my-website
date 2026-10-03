@@ -40,14 +40,14 @@ const params = Astro.params;
         <p>There are no blog posts to show at the moment. Check back later!</p>
       </div>
     ) : (
-      <ul>
+      <div>
         {page.data.map((post) => (
           <>
             <HorizontalCard
               title={post.data.title}
               img={post.data.heroImage}
               desc={post.data.description}
-              url={"/blog/" + createSlug(post.data.title, post.slug) + "/"}
+              url={"/blog/" + createSlug(post.data.title, post.id) + "/"}
               target="_self"
               badge={post.data.badge}
               date={post.data.pubDate}
@@ -56,7 +56,7 @@ const params = Astro.params;
             <div class="divider my-0" />
           </>
         ))}
-      </ul>
+      </div>
     )
   }
 
